@@ -169,7 +169,7 @@ voice:
   #  Uma vez aplicada, a porta padrão do servidor não será alterada!
   #  O ponto de partida para a criação do servidor ainda se aplica.
   #O valor deve ser um valor numérico positivo entre 1 e 65535
-  default_port: 10800
+  default_port: 10500
   #Descrição:
   #  Habilitar/desabilitar a notificação de mute
   #O valor deve ser um valor numérico positivo entre 0 e 1
